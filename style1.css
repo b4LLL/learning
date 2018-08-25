@@ -1,0 +1,26 @@
+/*p {
+	color:red;
+	text-align:center;
+}*/
+
+div, p {
+	background-color:green;
+	height:20%;
+	width:50%;
+	/*space outside the div*/
+	margin:50px;
+	/*space INside the div*/
+	padding:30px; 
+	font-family: cambria; serif;
+	color: white;
+	border: 3px dotted red;
+}
+
+.className {
+	color:red;	
+}
+
+#idThing {
+	
+	color:purple;
+}
